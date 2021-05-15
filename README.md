@@ -1,1 +1,1 @@
-# IS-105---Eksamens-innleveringer
+# IS-105---mappeinnlevering (programmeringsoppgaver)
